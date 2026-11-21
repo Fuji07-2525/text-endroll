@@ -1,6 +1,6 @@
 # テキストエンドロール
 
-![テキストエンドロール](images/endroll.gif)
+![テキストエンドロール](https://github.com/user-attachments/assets/0527b93e-1caf-4961-973e-3ba98bb50819)
 
 このプラグインは、AviUtl2 のテキストオブジェクトを**エンドロールのように流す**ための AviUtl2 用のプラグインです。
 
